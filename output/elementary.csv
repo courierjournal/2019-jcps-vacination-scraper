@@ -1,0 +1,607 @@
+school,grade,kpop,DTAP,Polio,HepB,MMR,Varicel,HepA,missing,page
+Alex R Kennedy Elementary,5,28,28,28,28,28,28,24,0,128
+Atkinson Academy,5,55,52,52,52,52,52,21,3,129
+Auburndale Elementary,5,93,88,92,92,92,89,63,1,130
+Audubon Traditional Elementary,5,116,116,116,116,115,116,112,0,131
+Bates Elementary,5,87,85,85,85,85,85,52,3,132
+Bellewood,5,8,8,8,8,8,8,5,0,133
+Binet School,5,2,2,2,2,2,2,2,0,134
+Blake Elementary,5,75,72,73,73,73,73,49,2,135
+Bloom Elementary,5,93,89,88,88,88,88,77,0,136
+Blue Lick Elementary,5,86,81,82,83,81,83,35,2,137
+Bowen Elementary,5,115,112,111,112,111,111,106,2,138
+Brandeis Elementary,5,102,99,100,100,99,100,59,1,139
+Breckinridge-Franklin Elementary,5,81,78,79,79,79,79,43,2,140
+Byck Elementary,5,65,62,63,62,63,62,37,2,141
+Camp Taylor Elementary,5,70,64,66,68,67,65,22,2,142
+Cane Run Elementary,5,58,56,56,56,56,56,35,2,143
+Carter Traditional Elementary,5,112,112,112,112,112,112,101,0,144
+Chancey Elementary,5,107,102,105,105,104,106,99,1,145
+Chenoweth Elementary,5,77,70,71,72,70,69,50,3,146
+Churchill Park School,5,3,3,3,3,3,3,2,0,147
+Cochran Elementary,5,64,63,63,63,63,63,44,1,148
+Cochrane Elementary,5,68,62,66,67,67,66,47,1,149
+Coleridge-Taylor Montessori Elementary,5,72,72,72,72,72,72,57,1,150
+Coral Ridge Elementary,5,91,86,89,88,90,89,56,2,151
+Crums Lane Elementary,5,67,67,67,67,67,67,48,0,152
+Dixie Elementary,5,72,70,70,70,68,66,46,2,153
+Dunn Elementary,5,87,84,83,84,83,82,34,3,154
+Eisenhower Elementary,5,101,96,98,99,99,98,54,3,155
+Engelhard Elementary,5,60,56,57,57,57,57,20,3,156
+Fairdale Elementary,5,94,88,93,93,91,90,69,1,157
+Farmer Elementary,5,118,111,116,115,115,116,73,2,158
+Fern Creek Elementary,5,109,94,105,103,102,102,51,3,159
+Field Elementary,5,65,62,62,61,62,62,39,1,160
+Foster Traditional Academy,5,99,96,96,96,93,93,47,4,161
+Frayser Elementary,5,65,54,60,61,62,61,37,3,162
+Gilmore Lane Elementary,5,50,49,50,50,50,50,37,0,163
+Goldsmith Elementary,5,109,92,101,100,101,95,51,6,164
+Greathouse/Shryock Traditional,5,111,110,111,111,111,110,71,0,165
+Greenwood Elementary,5,98,97,97,97,97,97,82,1,166
+Gutermuth Elementary,5,75,67,73,72,73,71,65,2,167
+Hartstern Elementary,5,85,80,83,83,83,82,66,2,168
+Hawthorne Elementary,5,54,53,53,53,53,53,45,1,169
+Hazelwood Elementary,5,60,49,58,57,58,56,41,1,170
+Hite Elementary,5,89,87,87,85,85,87,50,2,171
+Home Of The Innocents Discovery,5,3,0,0,0,0,0,0,3,172
+Home Of The Innocents School,5,1,1,1,1,1,1,0,0,173
+Indian Trail Elementary,5,69,68,67,69,69,68,48,0,174
+J. Graham Brown School,5,53,51,53,53,53,51,50,0,175
+Jacob Elementary,5,109,106,108,108,108,107,58,1,176
+Jeffersontown Elementary,5,120,116,118,119,116,114,29,1,177
+Johnsontown Road Elementary,5,76,75,75,74,74,75,45,1,178
+Kennedy Montessori Elementary,5,94,88,88,88,88,88,26,8,179
+Kenwood Elementary,5,96,86,91,92,93,92,68,3,180
+Kerrick Elementary,5,72,71,71,71,72,72,51,0,181
+King Elementary,5,86,80,79,79,79,79,26,6,182
+Klondike Lane Elementary,5,84,78,81,82,81,82,47,3,183
+Laukhuf Elementary,5,78,75,77,77,76,76,50,0,184
+Layne Elementary,5,58,58,58,58,57,58,52,0,185
+Lincoln Elementary Performing Arts,5,103,100,100,100,101,99,75,0,186
+Lowe Elementary,5,90,84,85,85,83,83,57,5,187
+Luhr Elementary,5,88,81,85,84,85,83,39,2,188
+Maupin Elementary,5,52,51,51,50,51,51,34,1,189
+McFerran Preparatory Academy,5,120,111,115,114,117,113,81,3,190
+Medora Elementary,5,89,87,87,87,87,87,55,1,191
+Middletown Elementary,5,89,87,87,87,86,87,62,1,192
+Mill Creek Elementary,5,85,84,84,84,84,83,53,0,193
+Minors Lane Elementary,5,69,60,66,66,67,65,49,1,194
+Norton Commons Elementary School,5,57,56,56,56,55,55,39,1,195
+Norton Elementary,5,116,109,110,110,110,109,88,4,196
+Okolona Elementary,5,48,48,48,48,48,48,31,0,197
+Peace Academy,5,13,12,12,12,12,12,7,2,198
+Portland Elementary,5,53,53,53,53,53,53,38,0,199
+Price Elementary,5,64,62,62,62,62,62,31,2,200
+Rangeland Elementary,5,87,75,84,85,86,83,51,1,201
+Roosevelt-Perry Elementary,5,41,41,41,41,41,41,24,0,202
+Rutherford Elementary,5,90,76,83,84,85,82,46,7,203
+Sanders Elementary,5,84,82,82,82,82,82,61,1,204
+Schaffner Traditional Elementary,5,114,113,114,113,114,113,95,0,205
+Semple Elementary,5,88,84,87,86,87,87,39,1,206
+Shacklette Elementary,5,64,57,63,63,63,63,51,0,207
+Shelby Traditional Academy,5,136,114,119,120,119,121,35,16,208
+Slaughter Elementary,5,72,64,72,71,71,70,58,0,209
+Smyrna Elementary,5,81,80,80,80,80,78,49,1,210
+St Joseph Children's Home,5,8,7,7,7,7,7,3,2,211
+St Matthews Elementary,5,89,87,87,87,87,86,52,2,212
+Stonestreet Elementary,5,83,78,81,80,80,77,48,2,213
+Stopher Elementary,5,118,115,115,115,115,115,104,0,214
+The Brook-Dupont,5,4,2,2,2,2,2,1,2,215
+Trunnell Elementary,5,84,77,77,77,75,76,32,6,216
+Tully Elementary,5,93,91,91,90,90,91,66,0,217
+Waller-Williams Environmental,5,28,28,28,28,28,28,13,0,218
+Watson Lane Elementary,5,50,49,49,49,49,49,31,1,219
+Watterson Elementary,5,89,84,86,86,86,86,54,3,220
+Wellington Elementary,5,81,79,79,79,79,79,37,3,221
+Western Day Treatment,5,4,4,4,4,4,4,0,0,222
+Wheatley Elementary,5,53,49,52,51,53,52,33,0,223
+Wheeler Elementary,5,118,115,117,117,117,116,107,0,224
+Wilder Elementary,5,83,80,81,81,80,79,55,0,225
+Wilkerson Elementary School,5,85,82,84,83,82,83,66,0,226
+Wilt Elementary,5,82,78,81,80,80,80,54,2,227
+Young Elementary,5,88,79,86,86,85,84,35,2,228
+Zachary Taylor Elementary,5,88,78,83,83,82,81,48,3,229
+Alex R Kennedy Elementary,1,49,48,48,48,47,46,38,0,230
+Atkinson Academy,1,41,38,39,38,39,39,24,2,231
+Auburndale Elementary,1,100,94,96,96,94,92,77,2,232
+Audubon Traditional Elementary,1,100,99,99,99,99,98,93,0,233
+Bates Elementary,1,93,90,90,90,90,89,68,4,234
+Binet School,1,2,2,2,2,2,2,1,0,235
+Blake Elementary,1,73,69,69,70,71,70,58,2,236
+Bloom Elementary,1,92,88,87,87,88,88,83,1,237
+Blue Lick Elementary,1,67,59,63,61,60,59,36,3,238
+Bowen Elementary,1,116,114,113,114,113,112,110,1,239
+Brandeis Elementary,1,89,82,84,84,84,84,67,4,240
+Breckinridge-Franklin Elementary,1,53,39,39,38,37,38,22,14,241
+Byck Elementary,1,56,55,54,55,54,53,32,0,242
+Camp Taylor Elementary,1,62,53,54,54,53,48,31,6,243
+Cane Run Elementary,1,39,38,38,38,38,38,36,1,244
+Carter Traditional Elementary,1,90,89,89,89,89,89,85,0,245
+Chancey Elementary,1,79,78,78,78,79,79,70,0,246
+Chenoweth Elementary,1,68,63,62,60,61,61,35,2,247
+Churchill Park School,1,1,1,1,1,1,1,1,0,248
+Cochran Elementary,1,48,47,48,47,47,47,43,0,249
+Cochrane Elementary,1,74,72,73,72,72,71,65,1,250
+Coleridge-Taylor Montessori Elementary,1,65,56,56,56,56,56,44,9,251
+Coral Ridge Elementary,1,81,76,76,77,77,77,55,3,252
+Crums Lane Elementary,1,49,49,49,49,49,49,40,0,253
+Dixie Elementary,1,44,40,41,42,40,40,29,1,254
+Dunn Elementary,1,76,75,75,74,74,74,35,1,255
+Eisenhower Elementary,1,95,91,92,92,91,90,63,1,256
+Engelhard Elementary,1,49,38,38,37,37,38,23,10,257
+Fairdale Elementary,1,75,74,74,74,74,72,62,0,258
+Farmer Elementary,1,120,116,117,117,117,116,76,2,259
+Fern Creek Elementary,1,92,83,85,84,86,83,72,5,260
+Field Elementary,1,70,69,69,69,69,69,54,0,261
+Foster Traditional Academy,1,76,71,72,72,69,68,41,4,262
+Frayser Elementary,1,35,32,33,33,31,30,26,2,263
+Gilmore Lane Elementary,1,24,24,24,24,24,24,22,4,264
+Goldsmith Elementary,1,84,76,76,75,76,75,46,6,265
+Greathouse/Shryock Traditional,1,93,92,93,93,92,93,83,0,266
+Greenwood Elementary,1,73,69,69,69,68,68,60,4,267
+Gutermuth Elementary,1,47,44,44,44,44,44,43,2,268
+Hartstern Elementary,1,76,74,74,74,69,73,65,1,269
+Hawthorne Elementary,1,66,65,65,65,65,65,58,0,270
+Hazelwood Elementary,1,59,55,58,58,59,55,54,0,271
+Hite Elementary,1,71,71,71,70,67,69,29,0,272
+Home Of The Innocents School,1,3,2,2,3,3,3,2,0,273
+Indian Trail Elementary,1,73,69,69,69,69,69,46,3,274
+J. Graham Brown School,1,48,47,47,47,47,47,46,0,275
+Jacob Elementary,1,63,56,57,56,56,56,44,4,276
+Jeffersontown Elementary,1,84,78,80,79,80,77,39,4,277
+Johnsontown Road Elementary,1,41,40,40,40,39,40,31,1,278
+Kennedy Montessori Elementary,1,91,80,80,80,77,77,49,12,279
+Kenwood Elementary,1,85,81,80,80,81,81,63,3,280
+Kerrick Elementary,1,66,64,64,64,63,64,61,0,281
+King Elementary,1,46,36,36,36,35,36,21,10,282
+Klondike Lane Elementary,1,49,44,44,45,44,44,35,6,283
+Laukhuf Elementary,1,77,70,74,74,72,71,59,2,284
+Layne Elementary,1,47,47,47,46,47,47,39,0,285
+Lincoln Elementary Performing Arts,1,86,86,86,85,86,84,72,1,286
+Lowe Elementary,1,97,89,89,88,87,86,77,8,287
+Luhr Elementary,1,73,70,71,69,67,66,45,2,288
+Maupin Elementary,1,32,29,29,29,27,27,24,3,289
+McFerran Preparatory Academy,1,99,91,93,93,92,92,83,6,290
+Medora Elementary,1,75,74,74,73,73,73,51,1,291
+Middletown Elementary,1,71,70,71,71,57,70,61,1,292
+Mill Creek Elementary,1,69,64,65,66,63,64,54,3,293
+Minors Lane Elementary,1,35,33,34,34,34,34,29,0,294
+Norton Commons Elementary School,1,76,75,75,74,74,75,66,0,295
+Norton Elementary,1,104,98,98,97,95,94,80,8,296
+Okolona Elementary,1,48,46,46,46,46,46,40,1,297
+Peace Academy,1,8,7,7,7,7,7,4,1,298
+Portland Elementary,1,42,42,42,41,41,42,31,0,299
+Price Elementary,1,49,46,46,46,45,46,26,2,300
+Rangeland Elementary,1,50,45,48,48,49,47,25,2,301
+Roosevelt-Perry Elementary,1,39,39,39,38,37,37,29,0,302
+Rutherford Elementary,1,65,52,56,54,52,52,37,13,303
+Sanders Elementary,1,54,51,50,51,51,51,40,2,304
+Schaffner Traditional Elementary,1,89,88,88,88,88,88,78,0,305
+Semple Elementary,1,87,76,78,77,77,74,48,7,306
+Shacklette Elementary,1,45,45,45,45,45,45,32,0,307
+Shelby Traditional Academy,1,102,80,82,81,80,80,42,19,308
+Slaughter Elementary,1,43,43,43,43,43,43,34,0,309
+Smyrna Elementary,1,49,49,49,49,48,49,41,0,310
+St Joseph Children's Home,1,1,1,1,1,1,1,1,0,311
+St Matthews Elementary,1,85,79,78,79,80,80,61,4,312
+Stonestreet Elementary,1,58,54,55,53,53,52,39,3,313
+Stopher Elementary,1,130,128,129,129,127,127,120,0,314
+The Brook-Dupont,1,3,3,3,3,3,3,3,0,315
+Trunnell Elementary,1,67,59,60,59,59,59,29,7,316
+Tully Elementary,1,124,120,120,119,120,119,88,0,317
+Waller-Williams Environmental,1,4,4,4,4,4,4,4,0,318
+Watson Lane Elementary,1,37,34,34,35,33,33,26,2,319
+Watterson Elementary,1,67,66,66,65,66,65,44,1,320
+Wellington Elementary,1,51,47,48,48,47,47,33,4,321
+Western Day Treatment,1,3,3,3,3,3,3,2,0,322
+Wheatley Elementary,1,40,33,32,31,32,31,15,7,323
+Wheeler Elementary,1,93,91,91,91,90,89,86,1,324
+Wilder Elementary,1,93,90,91,91,90,90,75,2,325
+Wilkerson Elementary School,1,61,57,57,57,57,57,51,4,326
+Wilt Elementary,1,76,73,73,74,73,74,54,2,327
+Young Elementary,1,63,55,56,56,56,56,26,6,328
+Zachary Taylor Elementary,1,52,45,47,46,44,42,26,5,329
+Ackerly,4,1,1,1,1,1,1,1,0,356
+Alex R Kennedy Elementary,4,29,29,29,28,28,28,18,0,357
+Atkinson Academy,4,60,58,58,57,58,58,26,2,358
+Auburndale Elementary,4,86,82,85,85,84,85,54,0,359
+Audubon Traditional Elementary,4,114,114,114,114,114,114,104,0,360
+Bates Elementary,4,88,83,86,86,84,84,51,2,361
+Bellewood,4,11,10,10,10,10,9,5,2,362
+Binet School,4,2,2,2,2,2,2,1,0,363
+Blake Elementary,4,81,79,80,78,79,78,53,1,364
+Bloom Elementary,4,91,90,90,88,90,90,80,0,365
+Blue Lick Elementary,4,77,72,74,73,72,73,36,2,366
+Bowen Elementary,4,117,117,117,116,116,117,105,0,367
+Brandeis Elementary,4,106,103,104,104,103,104,48,2,368
+Breckinridge-Franklin Elementary,4,84,77,77,78,76,77,27,7,369
+Byck Elementary,4,63,60,59,60,59,59,36,2,370
+Camp Taylor Elementary,4,61,55,57,58,58,56,22,3,371
+Cane Run Elementary,4,53,52,53,53,53,53,27,0,372
+Carter Traditional Elementary,4,103,103,103,103,103,103,92,0,373
+Chancey Elementary,4,113,107,112,111,112,111,101,1,374
+Chenoweth Elementary,4,71,67,65,66,65,67,51,1,375
+Churchill Park School,4,6,6,6,6,6,6,5,0,376
+Cochran Elementary,4,50,49,50,50,50,49,38,0,377
+Cochrane Elementary,4,72,70,71,70,70,69,54,1,378
+Coleridge-Taylor Montessori Elementary,4,84,83,83,83,83,83,58,0,379
+Coral Ridge Elementary,4,93,91,91,91,90,89,55,2,380
+Crums Lane Elementary,4,77,76,77,77,76,76,55,0,381
+Dixie Elementary,4,75,70,70,69,70,70,52,5,382
+Dunn Elementary,4,86,85,85,85,84,84,37,1,383
+Eisenhower Elementary,4,95,95,95,95,94,93,58,0,384
+Engelhard Elementary,4,63,57,61,61,61,60,20,3,385
+Fairdale Elementary,4,117,110,114,115,114,113,84,1,386
+Farmer Elementary,4,119,117,118,118,115,114,53,1,387
+Fern Creek Elementary,4,112,102,109,108,109,107,57,2,388
+Field Elementary,4,55,55,55,55,54,55,38,0,389
+Foster Traditional Academy,4,98,89,90,90,85,84,47,9,390
+Frayser Elementary,4,61,54,59,60,60,58,37,0,391
+Gilmore Lane Elementary,4,35,35,35,35,35,34,26,1,392
+Goldsmith Elementary,4,110,100,105,106,106,106,48,3,393
+Greathouse/Shryock Traditional,4,112,112,112,112,112,112,56,0,394
+Greenwood Elementary,4,97,96,96,97,97,96,77,0,395
+Gutermuth Elementary,4,74,64,72,72,72,70,67,1,396
+Hartstern Elementary,4,74,67,72,72,70,69,60,2,397
+Hawthorne Elementary,4,57,54,55,56,56,54,46,1,398
+Hazelwood Elementary,4,60,57,60,60,60,60,43,0,399
+Hite Elementary,4,84,82,82,83,83,83,39,0,400
+Home Of The Innocents School,4,1,1,1,1,1,1,0,0,401
+Indian Trail Elementary,4,75,73,73,73,71,71,57,2,402
+J. Graham Brown School,4,51,50,51,51,51,51,46,0,403
+Jacob Elementary,4,99,98,98,99,97,96,57,0,404
+Jeffersontown Elementary,4,120,108,112,110,113,108,31,6,405
+Johnsontown Road Elementary,4,69,68,68,69,67,67,40,0,406
+Kennedy Montessori Elementary,4,88,84,84,84,81,83,30,5,407
+Kenwood Elementary,4,93,87,93,93,93,93,73,0,408
+Kerrick Elementary,4,73,70,70,70,70,69,51,3,409
+King Elementary,4,79,71,74,73,74,74,29,5,410
+Klondike Lane Elementary,4,71,68,70,69,69,68,52,1,411
+Laukhuf Elementary,4,72,70,71,70,70,70,52,0,412
+Layne Elementary,4,74,71,72,72,71,71,64,0,413
+Lincoln Elementary Performing Arts,4,101,100,101,100,100,99,84,0,414
+Lowe Elementary,4,85,80,83,84,84,83,69,1,415
+Luhr Elementary,4,78,72,72,71,72,72,32,5,416
+Maupin Elementary,4,56,54,54,54,52,53,37,3,417
+McFerran Preparatory Academy,4,117,110,115,114,114,112,85,2,418
+Medora Elementary,4,81,80,80,80,79,77,45,0,419
+Middletown Elementary,4,89,88,88,85,88,88,66,0,420
+Mill Creek Elementary,4,88,87,87,87,85,86,64,0,421
+Minors Lane Elementary,4,72,67,71,71,71,70,50,1,422
+Norton Commons Elementary School,4,59,57,57,57,57,57,45,2,423
+Norton Elementary,4,121,115,117,115,116,115,95,4,424
+Okolona Elementary,4,50,49,50,50,49,50,41,0,425
+Peace Academy,4,13,12,12,11,12,12,9,2,426
+Portland Elementary,4,46,45,45,45,45,45,29,1,427
+Price Elementary,4,80,77,78,78,79,78,46,1,428
+Rangeland Elementary,4,68,61,65,64,65,65,28,3,429
+Roosevelt-Perry Elementary,4,40,39,39,39,39,39,20,1,430
+Rutherford Elementary,4,85,69,77,80,77,77,48,10,431
+Sanders Elementary,4,78,72,72,72,70,70,52,5,432
+Schaffner Traditional Elementary,4,110,107,108,108,108,108,79,1,433
+Semple Elementary,4,87,75,81,81,81,76,34,4,434
+Shacklette Elementary,4,78,73,76,76,74,74,55,2,435
+Shelby Traditional Academy,4,141,122,126,126,126,124,33,13,436
+Slaughter Elementary,4,62,60,61,61,61,61,45,1,437
+Smyrna Elementary,4,69,66,68,68,67,68,37,1,438
+St Joseph Children's Home,4,6,5,5,5,5,5,3,2,439
+St Matthews Elementary,4,85,83,83,83,81,83,50,0,440
+Stonestreet Elementary,4,71,71,71,71,70,69,39,0,441
+Stopher Elementary,4,123,120,119,119,117,120,101,0,442
+The Brook-Dupont,4,1,1,1,1,1,1,0,0,443
+Trunnell Elementary,4,76,63,64,64,65,63,22,11,444
+Tully Elementary,4,96,94,93,93,93,93,70,0,445
+Waller-Williams Environmental,4,19,18,18,18,19,19,10,0,446
+Watson Lane Elementary,4,63,61,61,60,59,60,33,2,447
+Watterson Elementary,4,89,86,85,87,86,87,54,1,448
+Wellington Elementary,4,70,69,70,70,69,70,40,0,449
+Western Day Treatment,4,7,7,7,7,7,7,5,0,450
+Wheatley Elementary,4,57,52,54,54,52,52,34,1,451
+Wheeler Elementary,4,114,114,114,114,113,112,99,0,452
+Wilder Elementary,4,94,92,94,92,94,94,57,0,453
+Wilkerson Elementary School,4,76,74,76,75,76,76,64,0,454
+Wilt Elementary,4,85,82,83,82,83,83,65,1,455
+Young Elementary,4,58,51,55,55,55,55,19,2,456
+Zachary Taylor Elementary,4,85,74,76,75,76,74,40,8,457
+Alex R Kennedy Elementary,k,53,53,53,53,52,52,48,0,458
+Atkinson Academy,k,59,41,41,41,41,40,28,18,459
+Auburndale Elementary,k,97,91,91,89,89,91,81,2,460
+Audubon Traditional Elementary,k,90,88,90,90,90,89,87,0,461
+Bates Elementary,k,99,90,90,89,89,88,81,9,462
+Binet School,k,1,0,1,0,1,1,0,0,463
+Blake Elementary,k,72,66,67,68,66,66,60,2,464
+Bloom Elementary,k,93,89,89,87,87,86,85,4,465
+Blue Lick Elementary,k,74,68,68,66,68,65,61,3,466
+Bowen Elementary,k,123,122,122,122,122,121,119,2,467
+Brandeis Elementary,k,72,68,69,69,69,69,65,3,468
+Breckinridge-Franklin Elementary,k,73,58,59,57,56,56,49,10,469
+Byck Elementary,k,74,68,68,67,68,68,52,5,470
+Camp Taylor Elementary,k,69,65,63,64,62,60,53,2,471
+Cane Run Elementary,k,73,71,71,71,70,69,61,2,472
+Carter Traditional Elementary,k,94,93,93,93,92,92,91,1,473
+Chancey Elementary,k,92,88,90,90,89,88,86,1,474
+Chenoweth Elementary,k,87,77,77,77,76,76,70,10,475
+Churchill Park School,k,2,2,2,2,2,2,2,0,476
+Cochran Elementary,k,52,50,50,50,49,49,46,2,477
+Cochrane Elementary,k,75,66,67,66,67,65,59,8,478
+Coleridge-Taylor Montessori Elementary,k,82,75,75,73,74,74,63,4,479
+Coral Ridge Elementary,k,88,86,87,84,87,87,80,1,480
+Crums Lane Elementary,k,75,67,67,67,66,66,59,10,481
+Dixie Elementary,k,65,60,62,62,61,60,61,3,482
+Dunn Elementary,k,95,73,73,69,69,67,61,21,483
+Eisenhower Elementary,k,101,92,90,89,90,90,82,7,484
+Engelhard Elementary,k,51,30,30,30,29,29,18,20,485
+Fairdale Elementary,k,100,99,99,99,99,98,87,1,486
+Farmer Elementary,k,131,129,130,128,129,130,118,1,487
+Fern Creek Elementary,k,123,106,105,107,103,100,94,14,488
+Field Elementary,k,76,71,71,68,69,68,65,4,489
+Foster Traditional Academy,k,91,79,79,78,74,74,55,12,490
+Frayser Elementary,k,53,35,36,38,38,36,32,12,491
+Gilmore Lane Elementary,k,45,42,42,41,39,39,41,1,492
+Goldsmith Elementary,k,107,97,97,95,98,98,79,7,493
+Greathouse/Shryock Traditional,k,94,90,92,92,91,91,88,2,494
+Greenwood Elementary,k,73,66,66,65,65,65,63,5,495
+Gutermuth Elementary,k,70,68,68,69,68,68,63,1,496
+Hartstern Elementary,k,78,77,77,77,77,75,65,1,497
+Hawthorne Elementary,k,74,74,74,74,74,74,71,0,498
+Hazelwood Elementary,k,72,65,67,65,65,62,57,4,499
+Heuser Hearing & Language Academy,k,3,3,3,3,3,2,2,0,500
+Hite Elementary,k,74,71,72,72,70,71,60,2,501
+Home Of The Innocents Discovery,k,2,1,1,1,0,0,0,1,502
+Indian Trail Elementary,k,74,70,70,68,69,68,64,4,503
+J. Graham Brown School,k,46,43,43,43,43,43,41,0,504
+Jacob Elementary,k,81,73,72,73,73,71,58,3,505
+Jeffersontown Elementary,k,127,106,108,108,107,107,94,25,506
+Johnsontown Road Elementary,k,43,39,39,38,35,36,33,3,507
+Kennedy Montessori Elementary,k,103,88,89,87,87,86,66,12,508
+Kenwood Elementary,k,99,89,89,90,91,90,80,7,509
+Kerrick Elementary,k,68,63,63,63,63,63,61,2,510
+King Elementary,k,49,44,43,43,43,42,36,4,511
+Klondike Lane Elementary,k,71,64,65,62,64,64,58,5,512
+Laukhuf Elementary,k,79,75,76,75,72,74,69,3,513
+Layne Elementary,k,69,67,69,68,67,68,61,2,514
+Lincoln Elementary Performing Arts,k,83,80,78,80,79,79,78,2,515
+Lowe Elementary,k,105,94,94,90,92,91,87,8,516
+Luhr Elementary,k,78,70,68,70,69,69,59,7,517
+Maupin Elementary,k,34,28,28,28,26,26,24,4,518
+McFerran Preparatory Academy,k,128,117,117,117,116,116,110,9,519
+Medora Elementary,k,71,67,68,69,67,65,57,1,520
+Middletown Elementary,k,94,80,80,83,81,82,75,6,521
+Mill Creek Elementary,k,75,69,69,70,68,68,62,4,522
+Minors Lane Elementary,k,59,55,55,55,54,54,52,2,523
+Norton Commons Elementary School,k,93,89,89,87,88,87,80,1,524
+Norton Elementary,k,125,120,120,121,118,120,113,3,525
+Okolona Elementary,k,50,49,49,47,47,47,48,0,526
+Peace Academy,k,5,4,4,4,4,4,4,1,527
+Portland Elementary,k,48,45,46,46,46,45,36,2,528
+Price Elementary,k,72,59,59,57,59,59,39,12,529
+Rangeland Elementary,k,74,68,69,66,67,65,53,2,530
+Roosevelt-Perry Elementary,k,50,45,46,45,44,43,28,4,531
+Rutherford Elementary,k,71,62,62,61,61,60,58,9,532
+Sanders Elementary,k,73,71,71,70,70,70,68,5,533
+Schaffner Traditional Elementary,k,70,69,68,68,68,68,62,2,534
+Semple Elementary,k,102,83,89,86,87,87,66,9,535
+Shacklette Elementary,k,48,44,44,43,44,44,40,2,536
+Shelby Traditional Academy,k,125,85,87,88,89,86,52,24,537
+Slaughter Elementary,k,73,72,72,71,71,70,63,0,538
+Smyrna Elementary,k,76,70,71,71,70,70,67,4,539
+St Joseph Children's Home,k,1,1,1,1,1,1,1,0,540
+St Matthews Elementary,k,94,85,85,85,84,84,76,7,541
+Stonestreet Elementary,k,78,74,74,72,73,74,62,4,542
+Stopher Elementary,k,134,130,130,129,129,128,124,0,543
+Trunnell Elementary,k,76,59,59,59,58,56,40,17,544
+Tully Elementary,k,117,113,112,110,111,111,95,2,545
+Watson Lane Elementary,k,37,32,32,30,31,32,24,4,546
+Watterson Elementary,k,73,72,71,72,70,71,58,1,547
+Wellington Elementary,k,67,58,58,58,57,57,45,9,548
+Western Day Treatment,k,1,1,1,1,1,1,1,0,549
+Wheatley Elementary,k,58,48,49,47,45,46,33,6,550
+Wheeler Elementary,k,97,94,93,93,95,92,91,1,551
+Wilder Elementary,k,71,64,64,65,64,64,50,3,552
+Wilkerson Elementary School,k,72,70,70,69,70,70,66,1,553
+Wilt Elementary,k,80,76,75,75,76,76,71,2,554
+Young Elementary,k,48,37,37,36,36,35,26,10,555
+Zachary Taylor Elementary,k,60,48,49,47,48,47,35,10,556
+Alex R Kennedy Elementary,2,46,46,45,46,46,46,39,0,597
+Atkinson Academy,2,67,61,63,63,62,63,34,4,598
+Auburndale Elementary,2,98,97,97,97,96,96,68,0,599
+Audubon Traditional Elementary,2,97,97,97,97,97,97,92,0,600
+Bates Elementary,2,97,89,89,89,87,87,69,6,601
+Bellewood,2,5,4,4,4,4,4,2,1,602
+Binet School,2,1,1,1,1,1,1,1,0,603
+Blake Elementary,2,68,67,67,67,65,65,44,1,604
+Bloom Elementary,2,94,91,91,90,91,91,77,1,605
+Blue Lick Elementary,2,92,87,87,87,87,87,51,5,606
+Bowen Elementary,2,126,123,126,125,126,125,119,3,607
+Brandeis Elementary,2,76,72,72,72,72,71,50,3,608
+Breckinridge-Franklin Elementary,2,105,96,96,96,92,92,48,9,609
+Byck Elementary,2,61,61,61,61,59,59,34,0,610
+Camp Taylor Elementary,2,76,71,71,72,63,70,26,3,611
+Cane Run Elementary,2,67,65,64,65,65,65,46,1,612
+Carter Traditional Elementary,2,94,94,94,94,94,94,88,0,613
+Chancey Elementary,2,99,95,95,96,95,95,84,1,614
+Chenoweth Elementary,2,97,87,88,87,88,87,58,5,615
+Churchill Park School,2,4,4,4,4,4,4,4,0,616
+Cochran Elementary,2,54,51,53,53,53,53,43,1,617
+Cochrane Elementary,2,78,74,74,74,73,75,55,4,618
+Coleridge-Taylor Montessori Elementary,2,94,90,90,89,90,89,61,4,619
+Coral Ridge Elementary,2,82,80,80,77,80,79,52,1,620
+Crums Lane Elementary,2,80,78,75,76,77,78,58,2,621
+Dixie Elementary,2,65,62,62,61,62,62,50,3,622
+Dunn Elementary,2,97,88,89,89,90,89,35,5,623
+Eisenhower Elementary,2,102,100,100,100,100,100,63,2,624
+Engelhard Elementary,2,64,56,57,58,57,56,22,8,625
+Fairdale Elementary,2,99,97,97,97,95,97,79,2,626
+Farmer Elementary,2,120,116,117,118,118,116,64,2,627
+Fern Creek Elementary,2,101,91,96,97,96,93,55,4,628
+Field Elementary,2,71,66,67,66,67,66,54,1,629
+Foster Traditional Academy,2,81,77,77,77,76,76,47,4,630
+Frayser Elementary,2,59,53,56,56,55,56,41,3,631
+Gilmore Lane Elementary,2,41,39,40,40,40,40,30,2,632
+Goldsmith Elementary,2,104,95,97,93,97,95,49,6,633
+Greathouse/Shryock Traditional,2,97,95,95,95,95,95,86,1,634
+Greenwood Elementary,2,73,73,73,73,73,73,63,0,635
+Gutermuth Elementary,2,69,66,67,67,67,64,63,0,636
+Hartstern Elementary,2,75,74,74,73,70,71,62,1,637
+Hawthorne Elementary,2,74,68,70,70,70,70,57,5,638
+Hazelwood Elementary,2,60,54,58,58,58,58,44,2,639
+Hite Elementary,2,78,76,76,76,76,76,37,1,640
+Home Of The Innocents Discovery,2,2,0,0,0,0,0,0,2,641
+Home Of The Innocents School,2,1,1,1,1,1,1,1,0,642
+Indian Trail Elementary,2,72,66,67,67,66,65,50,4,643
+J. Graham Brown School,2,48,48,48,48,48,48,45,0,644
+Jacob Elementary,2,80,76,77,77,76,76,54,2,645
+Jeffersontown Elementary,2,131,120,124,124,124,120,54,5,646
+Johnsontown Road Elementary,2,52,52,52,52,52,52,33,0,647
+Kennedy Montessori Elementary,2,115,105,105,105,104,105,39,10,648
+Kenwood Elementary,2,98,91,95,95,96,93,78,3,649
+Kerrick Elementary,2,75,74,74,74,74,74,61,1,650
+King Elementary,2,64,54,54,54,51,50,18,11,651
+Klondike Lane Elementary,2,75,70,71,70,70,66,53,4,652
+Laukhuf Elementary,2,80,78,79,79,78,78,67,0,653
+Layne Elementary,2,62,58,59,59,59,58,48,1,654
+Lincoln Elementary Performing Arts,2,99,96,96,96,97,97,80,1,655
+Lowe Elementary,2,99,95,95,96,94,93,67,3,656
+Luhr Elementary,2,74,67,70,69,69,70,31,3,657
+Maupin Elementary,2,47,42,42,41,42,41,33,6,658
+McFerran Preparatory Academy,2,116,107,107,107,106,105,85,9,659
+Medora Elementary,2,67,67,67,66,66,66,42,0,660
+Middletown Elementary,2,101,99,99,99,98,98,87,3,661
+Mill Creek Elementary,2,78,74,74,75,74,74,59,1,662
+Minors Lane Elementary,2,61,58,59,58,57,55,45,1,663
+Norton Commons Elementary School,2,81,79,79,79,79,79,67,1,664
+Norton Elementary,2,128,123,123,123,119,121,93,4,665
+Okolona Elementary,2,47,47,47,47,47,47,39,0,666
+Peace Academy,2,19,16,16,16,15,16,12,3,667
+Portland Elementary,2,37,37,37,37,37,37,25,0,668
+Price Elementary,2,57,53,52,53,53,53,32,2,669
+Rangeland Elementary,2,73,60,67,67,67,65,39,5,670
+Roosevelt-Perry Elementary,2,34,32,32,32,32,32,25,1,671
+Rutherford Elementary,2,71,60,62,60,59,58,45,18,672
+Sanders Elementary,2,72,70,70,70,70,69,56,2,673
+Schaffner Traditional Elementary,2,93,93,93,92,93,92,76,0,674
+Semple Elementary,2,88,82,85,85,84,82,39,3,675
+Shacklette Elementary,2,51,49,50,50,49,50,37,1,676
+Shelby Traditional Academy,2,129,115,117,117,113,112,50,12,677
+Slaughter Elementary,2,79,76,74,78,77,76,63,1,678
+Smyrna Elementary,2,96,91,91,92,92,92,64,4,679
+St Joseph Children's Home,2,1,1,1,1,1,1,0,0,680
+St Matthews Elementary,2,99,94,95,96,94,94,62,1,681
+Stonestreet Elementary,2,74,70,71,71,72,70,54,2,682
+Stopher Elementary,2,127,126,124,126,120,94,119,0,683
+Trunnell Elementary,2,72,60,60,61,59,59,25,11,684
+Tully Elementary,2,128,124,124,124,122,120,98,1,685
+Waller-Williams Environmental,2,6,6,6,6,6,6,1,0,686
+Watson Lane Elementary,2,35,34,34,34,32,32,25,1,687
+Watterson Elementary,2,95,92,93,91,92,91,72,2,688
+Wellington Elementary,2,76,74,74,74,74,72,47,2,689
+Western Day Treatment,2,5,5,5,5,5,5,3,0,690
+Wheatley Elementary,2,60,53,54,54,53,52,28,6,691
+Wheeler Elementary,2,111,110,110,110,110,110,99,0,692
+Wilder Elementary,2,87,83,84,84,84,83,56,3,693
+Wilkerson Elementary School,2,74,71,72,72,72,72,70,1,694
+Wilt Elementary,2,79,74,75,74,72,72,59,3,695
+Young Elementary,2,78,68,70,70,68,69,32,7,696
+Zachary Taylor Elementary,2,76,68,69,69,68,67,49,6,697
+Alex R Kennedy Elementary,3,46,45,45,45,44,45,35,0,820
+Atkinson Academy,3,66,63,63,62,61,62,30,3,821
+Auburndale Elementary,3,97,89,95,93,93,89,68,2,822
+Audubon Traditional Elementary,3,97,97,97,97,97,97,89,0,823
+Bates Elementary,3,93,90,90,90,90,90,64,4,824
+Bellewood,3,10,7,7,7,7,6,3,3,825
+Binet School,3,2,2,2,2,2,2,2,0,826
+Blake Elementary,3,73,70,72,72,72,72,48,1,827
+Bloom Elementary,3,91,87,87,86,87,86,79,0,828
+Blue Lick Elementary,3,90,89,89,88,89,88,41,1,829
+Bowen Elementary,3,127,123,124,123,124,123,113,2,830
+Brandeis Elementary,3,76,71,71,71,70,70,44,4,831
+Breckinridge-Franklin Elementary,3,81,74,74,75,74,73,22,7,832
+Byck Elementary,3,72,66,70,69,67,68,47,2,833
+Camp Taylor Elementary,3,76,69,72,72,73,70,25,3,834
+Cane Run Elementary,3,55,55,55,55,55,54,41,0,835
+Carter Traditional Elementary,3,98,98,98,98,98,98,88,0,836
+Chancey Elementary,3,100,94,98,97,98,98,92,1,837
+Chenoweth Elementary,3,94,92,93,93,92,92,70,0,838
+Churchill Park School,3,5,5,5,5,5,5,4,0,839
+Cochran Elementary,3,63,61,62,62,61,61,48,0,840
+Cochrane Elementary,3,63,59,60,60,60,60,46,3,841
+Coleridge-Taylor Montessori Elementary,3,73,70,70,70,70,70,53,3,842
+Coral Ridge Elementary,3,92,89,90,91,90,91,55,0,843
+Crums Lane Elementary,3,68,68,68,68,68,68,56,0,844
+Dixie Elementary,3,71,69,70,70,69,69,46,1,845
+Dunn Elementary,3,93,86,86,86,86,86,28,5,846
+Eisenhower Elementary,3,96,91,91,91,91,91,57,3,847
+Engelhard Elementary,3,58,54,54,54,53,53,14,4,848
+Fairdale Elementary,3,99,94,97,96,97,95,72,1,849
+Farmer Elementary,3,122,120,121,121,122,122,55,0,850
+Fern Creek Elementary,3,100,92,95,94,96,91,43,3,851
+Field Elementary,3,68,65,65,64,66,65,47,1,852
+Foster Traditional Academy,3,79,76,76,76,75,75,42,3,853
+Frayser Elementary,3,87,77,82,83,82,80,59,4,854
+Gilmore Lane Elementary,3,53,52,53,53,53,53,41,1,855
+Goldsmith Elementary,3,101,88,92,91,91,89,49,7,856
+Greathouse/Shryock Traditional,3,91,91,91,91,91,91,48,0,857
+Greenwood Elementary,3,73,72,71,72,72,72,68,1,858
+Gutermuth Elementary,3,59,55,58,58,56,57,54,1,859
+Hartstern Elementary,3,75,75,75,74,74,74,63,0,860
+Hawthorne Elementary,3,69,66,66,66,66,66,59,2,861
+Hazelwood Elementary,3,61,55,60,60,60,59,50,0,862
+Hite Elementary,3,77,77,77,76,76,77,31,0,863
+Home Of The Innocents Discovery,3,1,0,0,0,0,0,0,1,864
+Home Of The Innocents School,3,2,2,2,2,2,2,2,0,865
+Indian Trail Elementary,3,74,68,71,70,71,70,54,2,866
+J. Graham Brown School,3,47,47,47,47,47,47,44,0,867
+Jacob Elementary,3,100,98,98,99,98,99,67,1,868
+Jeffersontown Elementary,3,122,117,118,118,117,115,29,4,869
+Johnsontown Road Elementary,3,48,47,47,47,47,46,30,1,870
+Kennedy Montessori Elementary,3,99,93,93,93,93,93,37,8,871
+Kenwood Elementary,3,101,98,100,98,98,97,72,1,872
+Kerrick Elementary,3,74,73,73,73,73,74,57,0,873
+King Elementary,3,71,65,66,66,63,64,23,5,874
+Klondike Lane Elementary,3,69,66,68,68,67,68,46,0,875
+Laukhuf Elementary,3,72,69,71,71,71,70,51,1,876
+Layne Elementary,3,61,61,61,61,61,60,49,0,877
+Lincoln Elementary Performing Arts,3,97,96,96,94,96,95,72,2,878
+Lowe Elementary,3,98,96,96,94,94,94,75,1,879
+Luhr Elementary,3,84,80,81,82,81,79,39,2,880
+Maupin Elementary,3,37,36,36,35,36,36,25,1,881
+McFerran Preparatory Academy,3,125,121,122,120,122,119,102,3,882
+Medora Elementary,3,75,75,75,75,75,75,41,0,883
+Middletown Elementary,3,98,93,93,92,90,91,67,2,884
+Mill Creek Elementary,3,80,78,79,78,77,78,62,1,885
+Minors Lane Elementary,3,69,63,68,68,66,67,54,1,886
+Norton Commons Elementary School,3,70,68,69,69,69,69,56,1,887
+Norton Elementary,3,127,120,121,119,119,119,99,6,888
+Okolona Elementary,3,50,49,49,49,50,48,39,0,889
+Peace Academy,3,14,13,13,13,13,13,8,1,890
+Portland Elementary,3,43,42,43,43,43,43,33,0,891
+Price Elementary,3,79,77,78,78,78,77,43,1,892
+Rangeland Elementary,3,73,60,67,66,67,66,36,6,893
+Roosevelt-Perry Elementary,3,42,41,42,42,42,42,19,0,894
+Rutherford Elementary,3,74,60,65,65,60,63,39,16,895
+Sanders Elementary,3,72,71,71,71,71,71,51,1,896
+Schaffner Traditional Elementary,3,114,113,113,113,113,111,96,0,897
+Semple Elementary,3,101,91,96,96,96,93,41,3,898
+Shacklette Elementary,3,55,53,54,55,55,54,43,0,899
+Shelby Traditional Academy,3,126,103,107,105,105,101,45,17,900
+Slaughter Elementary,3,62,57,61,62,61,61,53,0,901
+Smyrna Elementary,3,97,93,93,93,92,92,62,3,902
+St Joseph Children's Home,3,2,1,1,1,1,1,1,0,903
+St Matthews Elementary,3,95,87,88,88,87,88,65,5,904
+Stonestreet Elementary,3,75,73,73,74,73,71,40,1,905
+Stopher Elementary,3,127,124,124,124,124,123,115,0,906
+The Brook-Dupont,3,3,3,3,3,3,3,3,0,907
+Trunnell Elementary,3,69,56,57,57,56,57,23,11,908
+Tully Elementary,3,123,117,119,117,115,115,83,1,909
+Waller-Williams Environmental,3,5,5,5,5,5,5,4,0,910
+Watson Lane Elementary,3,43,42,42,42,42,42,24,1,911
+Watterson Elementary,3,91,90,90,90,90,89,68,0,912
+Wellington Elementary,3,72,67,68,68,68,67,43,5,913
+Western Day Treatment,3,4,4,4,4,4,4,2,0,914
+Wheatley Elementary,3,57,49,51,51,50,51,35,4,915
+Wheeler Elementary,3,109,108,107,108,108,107,96,0,916
+Wilder Elementary,3,86,84,84,84,83,82,54,2,917
+Wilkerson Elementary School,3,77,73,75,75,75,74,67,1,918
+Wilt Elementary,3,80,70,73,72,73,73,62,4,919
+Young Elementary,3,74,64,70,69,70,69,25,3,920
+Zachary Taylor Elementary,3,77,70,70,72,71,66,36,4,921
